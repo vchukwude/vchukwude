@@ -1,6 +1,23 @@
-### Hi there 👋
+## Hi, I'm Victor 👋
 
+Business Analyst & Data Professional based in London.
 
-👋 Hi, I'm Victor, a seasoned Data Scientist passionate about translating raw data into actionable insights. With diverse experience in data science, I've tackled projects, from deploying ETL techniques at Delta Force Resourcing to contributing to innovative machine learning endeavors. My expertise spans statistical analysis, machine learning, and data visualization, utilizing tools like Python, SQL, and Tableau. Currently pursuing an MSc in Data Science, I stay at the forefront of advancements. Explore my repositories to see how I've applied data science to various projects. Open to collaboration and discussions on all things data, let's connect for coding and data exploration adventures! 🚀
+I work at the intersection of **data analytics, business intelligence, and machine learning**, transforming raw data into insights that support better decision-making.
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vchukwude&theme=dark&show_icons=true)
+### 🔧 Tools & Technologies
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Analysis
+- Forecasting
+
+### 📊 Areas of Interest
+- Business Intelligence
+- Data Analytics
+- Machine Learning
+- Predictive Modelling
+- Data Governance
+
+### 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/victorchukwude
